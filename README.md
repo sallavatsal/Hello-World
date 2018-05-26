@@ -1,3 +1,3 @@
-# hello_world
+# Hello-World
 Hey, how's it going ?
-Having a GitHub account is mandatory, not a choice
+Git/GitHub is a requirement for every coder.
